@@ -1,2 +1,5 @@
 # Detection-of-reoccurrence-of-Ameloblastoma-using-MobilnetV3
-MobilnetV3 utilized for early detection of Ameloblastoma reoccurrence through medical imaging analysis.
+
+Ameloblastoma is a rare and aggressive odontogenic tumor originating from the jawbone's cells forming tooth enamel. The reoccurrence of Ameloblastoma after initial treatment is a significant concern, as it can lead to further complications and necessitate additional interventions.
+
+To address this issue, researchers have explored using MobilnetV3, a convolutional neural network architecture known for its efficiency and accuracy in image recognition tasks, to aid in the detection of Ameloblastoma reoccurrence. By analyzing medical imaging data, such as X-rays, CT scans, or MRIs, the MobilnetV3 model can potentially identify subtle changes or growth patterns indicative of tumor reoccurrence. Early detection of reoccurrence would enable prompt medical intervention and improve the overall prognosis and quality of life for affected patients. It is essential to note that the success of such a system would depend on the availability of high-quality and accurately labeled medical imaging datasets for training the deep learning model.
